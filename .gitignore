@@ -1,6 +1,6 @@
 *.pem
 private-key/
-
+local-exec-output-files/
 # Local .terraform directories
 **/.terraform/*
 .terraform.*
